@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700,800');
+
+body{
+	background-color: #fff;
+	color: #272525;
+	font-family: Poppins;
+}
+
+
+.navbar span{
+	color:#fba755;
+	
+}
+
+#sec-home{
+	background-image: url(../img/home-header-bg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding: 400px 0;
+	color: #fff;}
+	
+
+#sec-home h1{
+	font-size: 50px;
+	margin-bottom: 20px;
+}
+
+
+.btn-naranja{
+	background-color: #fba755;
+	color: #ffff;
+	text-decoration: none;
+	border-radius: 0;
+}
+
+
+#sec-home a{
+	margin-right: 50px;
+}
+
+.titulo span{
+	display:block;
+	
+}
+
+
+.btn-light{
+	border-radius: 0;
+	color:#000;
+}
+
+.btn-light:hover{
+	color:#000;
+}
+
+.btn-rectangulo{
+	padding: 20px 20px;
+}
+
+#sec-coaches{
+	color:#272525;
+	text-align: center;
+padding: 60px;
+}
+
+#sec-coaches h1{
+	text-align: center;
+}
+
+#sec-about{
+	padding: 50px;
+	text-align: justify;
+}
+
+#sec-about p{
+	font-weight: 100;
+   font-size: 14px
+}
+
+footer{
+	background-color: #272525;
+	color:#fff;
+	text-align: center;
+	padding: 60px;
+}
+
+footer a{
+	color:#fba755;
+}
+
+.last span{
+	color:#fba755;
+	
+}
