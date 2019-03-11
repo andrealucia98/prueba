@@ -54,6 +54,11 @@ body{
 	color:#000;
 }
 
+.btn-naranja:hover{
+	color:#fff;
+	background-color: rgba(255,141,30,1.00);
+}
+
 .btn-rectangulo{
 	padding: 20px 20px;
 }
@@ -92,4 +97,23 @@ footer a{
 .last span{
 	color:#fba755;
 	
+}
+
+header i{
+	color: #fff;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+header{
+	background-color: #3D3D3D;
+	;
+}
+
+#sec-coaches p{
+	color:#7e7979;
+}
+
+#sec-about p{
+	color:#7e7979;
 }
